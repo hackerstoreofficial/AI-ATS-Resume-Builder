@@ -79,15 +79,15 @@ If you don't have a compatible version of Word, you can use trusted online conve
 
 ## 🤝 Contribution
 
-### Have a better ChatGPT/Claude prompt?
+Have a better ChatGPT/Claude prompt?
 
 1. Fork this repo.
 2. Create a new text file in the `prompts/` folder.
 3. Submit a Pull Request (PR).
 
-#### Do you have a format of ATS friendly resume?
+Do you have a format of ATS friendly resume?
 
-Then help others by submitting a Pull Request (PR)
+* Then help others by submitting a Pull Request (PR)
 
 ---
 
