@@ -61,4 +61,4 @@ Have a better ChatGPT/Claude prompt?
 3. Submit a Pull Request (PR).
 
 ---
-*Created by [hackerstoreofficial](https://github.com/hackerstoreofficial)*
+*Created/Maintained by [hackerstoreofficial](https://github.com/hackerstoreofficial)*
