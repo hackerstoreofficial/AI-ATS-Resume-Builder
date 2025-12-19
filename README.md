@@ -36,11 +36,11 @@ Create a clean, single-page, **ATS-friendly resume** in minutes using your Linke
 5. Click **Recompile**.
 6. Download your polished PDF! 📄
 
-## 🔄 Phase 4: Convert to Word (Optional)
+### Phase 4: Convert to Word (Optional)
 
 If you love the clean layout of the AI resume but prefer editing in Word, you can convert the final PDF back into an editable document using Microsoft Word's built-in feature.
 
-### Method A: Microsoft Word (Best Method)
+#### Method A: Microsoft Word (Best Method)
 *Requires MS Word 2013, 2016, 2019, or Office 365.*
 
 1.  Open **Microsoft Word** on your PC.
@@ -50,7 +50,7 @@ If you love the clean layout of the AI resume but prefer editing in Word, you ca
 4.  Click **OK**.
 5.  Word will recreate the resume. You can now edit text, change fonts, and save it as `.docx`!
 
-### Method B: Online Tools
+#### Method B: Online Tools
 If you don't have a compatible version of Word, you can use trusted online converters:
 * [Adobe Acrobat Online](https://www.adobe.com/acrobat/online/pdf-to-word.html)
 * [ILovePDF](https://www.ilovepdf.com/pdf_to_word)
