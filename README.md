@@ -51,5 +51,6 @@ Have a better ChatGPT/Claude prompt?
 1. Fork this repo.
 2. Create a new text file in the `prompts/` folder.
 3. Submit a Pull Request (PR).
+
 ---
 *Created by [hackerstoreofficial](https://github.com/hackerstoreofficial)*
