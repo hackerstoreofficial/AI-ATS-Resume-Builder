@@ -52,7 +52,7 @@ Create a clean, single-page, **ATS-friendly resume** in minutes using your Linke
 * **Formatting:** It creates perfect alignment and typography automatically.
 * **Professionalism:** It is the standard format for academic and engineering roles.
 
-## 🤝 Contributing
+## 🤝 Contribution
 
 Have a better ChatGPT/Claude prompt?
 
