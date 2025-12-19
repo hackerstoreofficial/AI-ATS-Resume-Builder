@@ -85,6 +85,9 @@ Have a better ChatGPT/Claude prompt?
 2. Create a new text file in the `prompts/` folder.
 3. Submit a Pull Request (PR).
 
+Do you have a format of ATS friendly resume?
+Then help others by submitting a Pull Request (PR)?
+
 ---
 
 *Created/Maintained by [hackerstoreofficial](https://github.com/hackerstoreofficial)*
