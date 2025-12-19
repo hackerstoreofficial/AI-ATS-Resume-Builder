@@ -1,1 +1,0 @@
-Give me a one-page ATS-friendly resume that showcases all my experiences, achievements, and skillsets to land me a job interview at Google. Write the LaTeX code to generate this resume.

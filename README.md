@@ -23,7 +23,7 @@ Create a clean, single-page, **ATS-friendly resume** in minutes using your Linke
 
 1. Open [Claude.ai](https://claude.ai).
 2. Upload your **LinkedIn PDF**.
-3. Copy the prompt from [`prompt.txt`](./prompt.txt) in this repository.
+3. Copy the prompt from [`general_prompt.txt`](./prompts/general_prompt.txt) in this repository.
 4. Paste the prompt into Claude and hit Enter.
 5. Claude will generate a block of **LaTeX code**. Copy this code.
 
