@@ -46,8 +46,10 @@ Create a clean, single-page, **ATS-friendly resume** in minutes using your Linke
 * **Formatting:** It creates perfect alignment and typography automatically.
 * **Professionalism:** It is the standard format for academic and engineering roles.
 
-## 🤝 Contribution
-If you have better prompts or LaTeX templates, feel free to fork this repo and submit a pull request!
-
+## 🤝 Contributing
+Have a better ChatGPT/Claude prompt?
+1. Fork this repo.
+2. Create a new text file in the `prompts/` folder.
+3. Submit a Pull Request (PR).
 ---
 *Created by [hackerstoreofficial](https://github.com/hackerstoreofficial)*
