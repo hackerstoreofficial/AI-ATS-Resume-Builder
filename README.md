@@ -23,7 +23,7 @@ Create a clean, single-page, **ATS-friendly resume** in minutes using your Linke
 
 1. Open [Claude.ai](https://claude.ai).
 2. Upload your **LinkedIn PDF**.
-3. Copy the prompt from [`general_prompt.txt`](./prompts/general_prompt.txt) in this repository.
+3. Copy the prompt from [`general_prompt.txt`](./prompts/general_prompt.txt) in this repository or the prompt given below [`The Prompt`](https://github.com/hackerstoreofficial/AI-ATS-Resume-Builder?tab=readme-ov-file#-the-prompt) and also many prompts given by contributors in [`more_prompts.txt`](./prompts/more_prompts.txt).
 4. Paste the prompt into Claude and hit Enter.
 5. Claude will generate a block of **LaTeX code**. Copy this code.
 
@@ -82,7 +82,7 @@ If you don't have a compatible version of Word, you can use trusted online conve
 **Have a better ChatGPT/Claude prompt?**
 
 1. Fork this repo.
-2. Create a new text file in the `prompts/` folder.
+2. Enter your prompt in the `prompts/more_prompts.txt` folder.
 3. Submit a Pull Request (PR).
 
 **Do you have a format of ATS friendly resume?**
