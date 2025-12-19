@@ -36,6 +36,28 @@ Create a clean, single-page, **ATS-friendly resume** in minutes using your Linke
 5. Click **Recompile**.
 6. Download your polished PDF! 📄
 
+## 🔄 Phase 4: Convert to Word (Optional)
+
+If you love the clean layout of the AI resume but prefer editing in Word, you can convert the final PDF back into an editable document using Microsoft Word's built-in feature.
+
+### Method A: Microsoft Word (Best Method)
+*Requires MS Word 2013, 2016, 2019, or Office 365.*
+
+1.  Open **Microsoft Word** on your PC.
+2.  Go to **File > Open** and select the PDF you downloaded from Overleaf.
+3.  A dialog box will appear with this message:
+    > *"Word will now convert your PDF to an editable Word document. This may take a while. The resulting Word document will be optimized to allow you to edit the text, so it might not look exactly like the original PDF, especially if the original file contained lots of graphics."*
+4.  Click **OK**.
+5.  Word will recreate the resume. You can now edit text, change fonts, and save it as `.docx`!
+
+### Method B: Online Tools
+If you don't have a compatible version of Word, you can use trusted online converters:
+* [Adobe Acrobat Online](https://www.adobe.com/acrobat/online/pdf-to-word.html)
+* [ILovePDF](https://www.ilovepdf.com/pdf_to_word)
+
+> **💡 Why do this?**
+> This workflow gives you the structural perfection of LaTeX combined with the ease of editing in Microsoft Word.
+
 ---
 
 ## 🤖 The Prompt
