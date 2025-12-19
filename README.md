@@ -82,7 +82,7 @@ If you don't have a compatible version of Word, you can use trusted online conve
 **Have a better ChatGPT/Claude prompt?**
 
 1. Fork this repo.
-2. Enter your prompt in the `prompts/more_prompts.txt` folder.
+2. Enter your prompt in the [`more_prompts.txt`](./prompts/more_prompts.txt) folder.
 3. Submit a Pull Request (PR).
 
 **Do you have a format of ATS friendly resume?**
