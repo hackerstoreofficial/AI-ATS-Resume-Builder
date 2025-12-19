@@ -86,7 +86,8 @@ Have a better ChatGPT/Claude prompt?
 3. Submit a Pull Request (PR).
 
 Do you have a format of ATS friendly resume?
-Then help others by submitting a Pull Request (PR)?
+
+Then help others by submitting a Pull Request (PR)
 
 ---
 
